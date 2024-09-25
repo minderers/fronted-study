@@ -11,7 +11,16 @@ import wukong4 from './components/wukong4.vue';
 import wukong5 from './components/wukong5.vue';
 import wukong6 from './components/wukong6.vue';
 import Scrow from './components/Scrow.vue';
-
+import UserForm from './components/UserForm.vue';
+import UserProfileParent from './components/UserProfileParent.vue';
+import UserFormParent from './components/UserFormParent.vue';
+import EmailFormParent from './components/EmailFormParent.vue';
+import DataFecher from './components/DataFecher.vue';
+import CardParent from './components/CardParent.vue';
+import LoginForm from './components/LoginForm.vue';
+import ProductsList from './components/ProductsList.vue';
+import Beautiful1 from './components/beautiful1.vue';
+import Beautiful2 from './components/beautiful2.vue';
 </script>
 
 <template>
@@ -19,7 +28,17 @@ import Scrow from './components/Scrow.vue';
     <!-- <test2 /> -->
     <!-- <ref /> -->
     <!-- <reactive /> -->
-    <scrow />
+    <!-- <scrow /> -->
+    <!-- <UserForm /> -->
+    <!-- <UserProfileParent /> -->
+    <!-- <UserFormParent /> -->
+    <!-- <EmailFormParent /> -->
+    <!-- <DataFecher />
+    <CardParent /> -->
+    <!-- <LoginForm /> -->
+    <!-- <ProductsList /> -->
+    <!-- <Beautiful1 /> -->
+    <beautiful2 />
   </div>
 
 </template>
